@@ -18,3 +18,19 @@ YOLOv5 Flowers Classification :
 Task 1 : based on MNIST dataset , reference from https://github.com/rasbt/machine-learning-book/blob/main/ch11/ch11.ipynb
 
 Task 2 : based on dataset from https://www.robots.ox.ac.uk/~vgg/data/flowers/102/
+
+===================================================================
+
+Instructions for running notebooks:
+
+Make sure to change the HOME_DIR variable according to your environment path before running.
+
+We found that high RAM GPU environemnt is needed for the CNN notebooks. 
+
+Prequisites are tensorflow/keras, and torch.
+
+1. Digit_Classification was tested on Google Colab
+   
+2. VGG19 was tested on BGU cluster
+   
+3. YOLOv5 was tested on Google Colab.
